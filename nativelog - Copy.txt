@@ -1,0 +1,43 @@
+﻿Set run directory to E:
+Native Launcher Version: 307
+Operating System: Windows 10 Home Single Language
+Application Hash: 40a55daa6845b0e1e797461386a218193b14e7d6
+Application Data directory: C:\Users\User\AppData\Roaming
+Executable Path: MinecraftLauncher.exe
+App Directory dir: E:
+Start dir: E:
+Launcher dir: E:/game
+TmpDir dir: E:/game
+Java Launcher hash: 
+Java Version: 
+x64: 1
+LauncherConfiguration from: https://launchermeta.mojang.com/mc/launcher.json
+Downloaded config
+Native launcher is current
+Native launcher is current
+We need to update the java runtime!
+Java version: "1.8.0_25"
+Current Java version: ""
+Update Java Version
+Runtime outdated!
+Runtime version should be should be 1.8.0_25
+We need to update the java launcher!
+Game launcher outdated!
+Hash should be ccb4a2df12fa3bd8c4d27ece46f692d12f91a01b
+Check to see if we can run the launcher
+Native launcher is current
+runJavaLauncher
+Installing java
+Unpack E:/game//_tmpJava.lzma
+Unpack successful
+Unpack E:/game//_tmpJava.zip
+Unpack successful
+1.8.0_25_tmp does not match 1.8.0_25
+Java bin dir: ./runtime/jre-x64/1.8.0_25/bin
+Installing java launcher
+Unpacking launcher
+Unpack E:/game/launchertmp.jar.lzma
+Unpack successful
+Failed to start application ./runtime/jre-x64/1.8.0_25/bin/java.exe -cp E:/game/launcher.jar net.minecraft.launcher.Main --winTen --nativeLauncherVersion 307
+Error message: The system cannot find the file specified.
+
